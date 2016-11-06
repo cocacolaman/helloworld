@@ -1,7 +1,5 @@
 * Telephone
 * Avro
 * Harrier
-* Hornet
-* Juice
-
-
+* April
+* May
